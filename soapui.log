@@ -1,0 +1,6 @@
+2018-04-11 13:49:14,664 WARN  [SoapUI] Missing folder [C:\WBAPI3\webapi\ext] for external libraries
+2018-04-11 13:49:15,091 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\200848\soapui-settings.xml]
+2018-04-11 13:49:17,408 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2018-04-11 13:49:17,408 INFO  [DefaultSoapUICore] All plugins loaded
+2018-04-11 13:49:18,375 INFO  [WsdlProject] Loaded project from [file:/C:/Test_WorkSpace/SOAP-UI/globalweather-soapui-project.xml]
+2018-04-11 13:50:00,934 INFO  [WsdlProject] Loaded project from [file:/C:/Test_WorkSpace/SOAP-UI/globalweather-soapui-project.xml]
